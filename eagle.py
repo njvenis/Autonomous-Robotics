@@ -2,7 +2,7 @@
 """
 Created on Mon Feb 26 11:30:10 2018
 
-@author: Nicholas Venis
+@author: Nicholas Venis.
 """
 import rospy, cv2, cv_bridge, numpy, time
 from sensor_msgs.msg import Image
